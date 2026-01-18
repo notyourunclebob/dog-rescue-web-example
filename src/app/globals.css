@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+    --color-bg-colour:#EEC170;
+    --color-bg-emphasis:#F2A65A;
+    --color-font-colour:#585123;
+    --color-font-enphasis:#772F1A;
+    --color-btn-colour:#F58549;
+    --color-bg-form:#EEEEEE;
+}
